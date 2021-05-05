@@ -1,0 +1,1 @@
+// Here put constants like Colors or wtv I need
